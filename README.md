@@ -1,1 +1,2 @@
 # Portfolio
+This portfolio is to showcase some of the code/products I have created that are either not published, snipets used in my published works, or are not publishable in scientific journal format.
