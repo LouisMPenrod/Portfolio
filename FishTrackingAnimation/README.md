@@ -12,4 +12,6 @@ I wanted to develop a method to actively show the fish's preference for color (o
 Within the AnimationTest.R file is simplified example. The script creates two animations. The first is shows where the fish is at each time-step with the second showing the cumulative proportional time spent in each zone for each fish. The animations are then stitched together to make a single animation. Here is the result:
 
 <br/>
+
+
 ![Animation](test.png)
