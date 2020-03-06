@@ -188,8 +188,8 @@ while(vid <= length(files) & cont==TRUE) {
   rm(t2,angdisp, ang,ang2,aveldisp,cmdisp,evaa,evav,evcm,evla,evsn,focusang,focusang2,i,maxval,sndisp,t2_2,tdisp,thold,veldisp, dir, temp, val, ang3)
   
   ## Run shiny app to determine timing of fish's turing phase.
-  ## App creates three plots. The first is of the angular velocity through time,
-  ## the second is the linear velocity through time,
+  ## App creates three plots. The first is of the linear velocity through time,
+  ## the second is the angular velocity through time,
   ## and the third is the position of the fish (arrow is head, red dot is stimulus).
   ## Run the app, use the slider to find the frame where the fish starts to turn and
   ## click the mark latency button. The move the slider to where the fish stops
