@@ -14,6 +14,8 @@ The script starts by asking how many features should be randomly picked.  Image 
 ![Leg Markup](./images/leg_markup.png)
 
 
+The students used this tool to run through their images and what was originally quoted at 14 weeks to complete with the old method took 2; a seven-fold reduction!
+
 ## Examples
 I have provided a few example images if anyone wants to try this process out. Just download the FeatureLabeling RProject folder, open feature_select.R, select all, and run. I suggest setting the number of features requested to five if you are running this as an example. Try selecting different number of points; the script is able to handle various inputs such as if few than the requested features are present, or if no features are marked.
 
