@@ -14,4 +14,4 @@ Within the AnimationTest.R file is simplified example. The script creates two an
 <br/>
 
 
-![Animation](test.png)
+![Animation](result.gif)
