@@ -22,7 +22,7 @@ The application uses a slider to move through time, frame-by-frame and plot the 
 Upon closing the application, the times selected are used to create a new column which indicates what phase the fish is in at all times in the response. Once this column is created, the data is saved and the user will be prompted (in the console) to move on to the next dataset.
 
 ## Examples
-I have provided three examples to test out. Just download the whole TurningPhase RProject folder, open up metric_calculations.R, select all, and run.Here is a video walking through the Shiny poriton:
+I have provided three examples to test out. Just download the whole TurningPhase RProject folder, open up metric_calculations.R, select all, and run. Here is a video walking through the Shiny poriton:
 
 
 [![Video Thumbnail](./images/video_ex.png)](https://youtu.be/li9TxCDiSBM)
