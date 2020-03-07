@@ -12,4 +12,4 @@ As a biologist, many of the products I create are propietary in some form or ano
 + [LMP3](https://github.com/Louismp1223/LMP3): A package to hold custom functions I have built upon request by colleges.
 
 ## More Information
-If you are interested in my work or want to learn more about what I do, [check out my website](https://louismpenrod.wixsite.com/home) or [linkedin](https://www.linkedin.com/in/louis-penrod-6b1a1889/), [follow my work on ResearchGate](https://www.researchgate.net/profile/Louis_Penrod),  [or check out my twitter](https://twitter.com/P_Louis2). 
+If you are interested in my work or want to learn more about what I do, [check out my website](https://louismpenrod.wixsite.com/home) or [Linkedin](https://www.linkedin.com/in/louis-penrod-6b1a1889/), [follow my work on ResearchGate](https://www.researchgate.net/profile/Louis_Penrod),  or [check out my twitter](https://twitter.com/P_Louis2). 
